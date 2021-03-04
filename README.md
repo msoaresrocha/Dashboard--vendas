@@ -1,2 +1,2 @@
-# Dashboard--vendas
+# Dashboard-vendas
 Dashboard de Vendas no PowerBI
